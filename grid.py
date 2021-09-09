@@ -24,3 +24,4 @@ while (count > 0):
     x += 100
     count -= 1
 
+turtle.exitonclick()
