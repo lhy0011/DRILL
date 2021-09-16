@@ -51,7 +51,8 @@ y = 90
 while (True):
     quadrilateral_motion(x, y)
     circular_motion(x, y)
-    
+
+
 
 
 
