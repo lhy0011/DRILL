@@ -38,3 +38,4 @@ class Bird:
             Bird.image.clip_draw(int(self.frame) * 100, 0, 100, 100, self.x, self.y)
         else:
             Bird.image.clip_composite_draw(int(self.frame) * 100, 0, 100, 100, 0, 'h', self.x, self.y, 100, 100)
+
